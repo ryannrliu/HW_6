@@ -1,0 +1,12 @@
+Package: HW6pack
+Title: Sparse Numeric Vector Class and Methods
+Version: 0.0.0.9000
+Authors@R: Ryann Liu
+Description: Implements an S4 class 'sparse_numeric' that stores numeric 
+    vectors in sparse form and supports arithmetic, summary statistics, 
+    standardization, and efficient sparse operations.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
